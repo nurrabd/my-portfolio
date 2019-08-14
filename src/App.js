@@ -10,11 +10,11 @@ function App() {
       <header className="App-header">
           <h4> Welcome to my Page</h4>
           <img
-          src="nur.jpg"
+          src="nur"
           alt="hej"/>
           <h1> Under construction</h1>
           <img
-          src="logo.svg"
+          src="logo"
           alt="hej"
           width="33.3333%"
           height="33.3333%"
