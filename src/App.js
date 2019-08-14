@@ -16,6 +16,17 @@ function App() {
           height="20.3333%"/>
 
           <h1> Under construction</h1>
+
+          <br/>
+          <div Style={"height: 200px"}>
+
+
+          </div>
+
+
+
+          <h4> By</h4>
+          <br/>
           <img
           src={logo}
           alt="hej"
