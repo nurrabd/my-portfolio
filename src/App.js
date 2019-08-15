@@ -9,11 +9,6 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-          <img
-          src={nur}
-          alt="hej"
-          width="20.3333%"
-          height="20.3333%"/>
 
           <h1> Under construction</h1>
           <h5> Nurhusein Abdulkader</h5>
