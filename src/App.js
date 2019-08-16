@@ -15,7 +15,7 @@ function App() {
                       <h1> Under construction</h1>
                   </Col>
                   <Col className="col-6 border-primary" Style="border: outset">
-                      <h5> Nurhusein Abdulkader</h5>
+                      <h1> Nurhusein Abdulkader</h1>
                   </Col>
 
 
