@@ -6,10 +6,10 @@ class HeadLines extends Component {
     render() {
         return (
             <Container>
-                <Row Style={"height:70px; "}/>
 
-                <Row className="">
-                    <Col className="col-1 ">
+                <Row Style="height:90px"></Row>
+                <Row >
+                    <Col className="col-2 ">
                         <img
                         src={require('../image/profile.png')}
                         alt="profile"
@@ -18,7 +18,7 @@ class HeadLines extends Component {
                         width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
                         PROFILE
                     </Col>
                 </Row>
@@ -33,7 +33,7 @@ class HeadLines extends Component {
                             width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
                         EXPERIENCE
                     </Col>
                 </Row>
@@ -48,22 +48,22 @@ class HeadLines extends Component {
                             width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
                         EDUCATION
                     </Col>
                 </Row>
                 <br/>
-                <Row className="">
-                    <Col className="col-2 ">
+                <Row className="" Style={"border: "}>
+                    <Col className="col-2  " Style={"border:  ; " }>
                         <img
                             alt={"Edu"}
                             src={require('../image/skill.png')}
                             Style={"border:"}
-                            height={"30px"}
-                            width={"30px"}
+                            height={"20px"}
+                            width={"20px"}
                         />
                     </Col>
-                    <Col className="col-10 align-items-center" Style={"border: ; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-10 align-items-start" Style={"border:  ; font-family: Myanmar MN; font-size: 25px; text-align:left"}>
                         SKILLS
                     </Col>
                 </Row>
@@ -78,7 +78,7 @@ class HeadLines extends Component {
                             width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
                         INTERESTS
                     </Col>
                 </Row>
@@ -93,7 +93,7 @@ class HeadLines extends Component {
                             width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px"}>
+                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
                         CERTIFICATIONS
                     </Col>
                 </Row>
@@ -108,7 +108,7 @@ class HeadLines extends Component {
                             width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
                         COURSES
                     </Col>
                 </Row>

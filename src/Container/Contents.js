@@ -17,8 +17,10 @@ class Contents extends Component {
                         <Col className="col-3" Style={"border:; "}>
                         <HeadLines></HeadLines>
                         </Col>
-                        <Col className="col-9" Style={"border:"}>
+                        <Col className="col-9" Style={"border: "}>
+
                             <Profile />
+                            <hr Style="color: #9B9A9A"/>
                             <Experience/>
                             <Education/>
                             <Skills/>
