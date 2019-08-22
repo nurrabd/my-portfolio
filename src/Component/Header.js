@@ -10,6 +10,7 @@ class Header extends Component {
                         <Col Style={"border: " }  >
                             <p/>
                             <img
+                                alt={"nur.png"}
                             src={require('../image/DSC_0497.png')}
                             width={"140px"}
                             height={"140px"}/>
