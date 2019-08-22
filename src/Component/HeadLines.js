@@ -58,12 +58,12 @@ class HeadLines extends Component {
                         <img
                             alt={"Edu"}
                             src={require('../image/skill.png')}
-                            Style={"border:outset"}
+                            Style={"border:"}
                             height={"30px"}
                             width={"30px"}
                         />
                     </Col>
-                    <Col className="col-10 align-items-center" Style={"border: outset; font-family: Myanmar MN; font-size: 30px"}>
+                    <Col className="col-10 align-items-center" Style={"border: ; font-family: Myanmar MN; font-size: 30px"}>
                         SKILLS
                     </Col>
                 </Row>

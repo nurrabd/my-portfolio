@@ -14,10 +14,10 @@ class Contents extends Component {
             <div>
                 <Container>
                     <Row>
-                        <Col className="col-3" Style={"border:outset; "}>
+                        <Col className="col-3" Style={"border:; "}>
                         <HeadLines></HeadLines>
                         </Col>
-                        <Col className="col-9" Style={"border:outset"}>
+                        <Col className="col-9" Style={"border:"}>
                             <Profile />
                             <Experience/>
                             <Education/>
