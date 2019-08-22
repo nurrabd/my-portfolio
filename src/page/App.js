@@ -11,7 +11,8 @@ function App() {
   return (
 
     <div className="App">
-<Header></Header>
+            <Header/>
+            <hr Style="color: #9B9A9A"/>
     </div>
   );
 }
