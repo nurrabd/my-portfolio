@@ -32,8 +32,11 @@ class Profile extends Component {
                         height={"30%"}
                         width={"50%"}
                         Style="margin-left: 130px; margin-top: 50px"/>
+
                     </Col>
+
                 </Row>
+
             </Container>
 
         );

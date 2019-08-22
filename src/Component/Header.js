@@ -23,7 +23,7 @@ class Header extends Component {
                     </Row>
                     <Row Style={"border:"}>
                         <Col Style={" font-family: Myanmar MN; font-size: 17px ; color: #9B9A9A" }>
-                            Computer Engineer Student | Gothenburg, 41838, Sweden | +46722524885
+                            Computer Engineer Student | Gothenburg, 41838, Sweden | +46722524885 | nurhusein11@gmail.com
                         </Col>
                     </Row>
                 </Container>
