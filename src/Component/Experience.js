@@ -5,7 +5,7 @@ class Experience extends Component {
     render() {
         return (
             <Container Style="border:">
-                {/**
+
                 <br/>
                 <Row Style="border:outset">
                     <Col className="col-1" Style="border:outset">
@@ -25,7 +25,7 @@ class Experience extends Component {
 
                     </Col>
                 </Row>
-                   **/ }
+
             </Container>
 
         );

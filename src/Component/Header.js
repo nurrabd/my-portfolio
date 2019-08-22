@@ -4,8 +4,8 @@ import {Container, Col, Row, } from "react-bootstrap";
 class Header extends Component {
     render() {
         return (
-            <div>
-                <Container Style={"border: "}>
+            <div >
+                <Container Style={"border: ;   "}>
                     <Row Style={"border:"}>
                         <Col Style={"border: " }  >
                             <p/>
