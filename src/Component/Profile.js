@@ -16,8 +16,7 @@ class Profile extends Component {
 
                         </Row>
                         <Row Style={"border: "}>
-                            <div
-                                Style="border-left: 1px solid #9B9A9A; margin-left: 25px;  height: 380px;"></div>
+                            <div Style="border-left: 1px solid #9B9A9A; margin-left: 25px;  height: 380px;"></div>
                         </Row>
 
                     </Col>
