@@ -19,7 +19,7 @@ class Contents extends Component {
                         </Col>
                         <Col className="col-9" Style={"border: "}>
 
-                            {/**   <Profile />**/}
+                            { <Profile />}
                             <Experience/>
                             <Education/>
                             <Skills/>
