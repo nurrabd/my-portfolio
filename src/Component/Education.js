@@ -11,14 +11,14 @@ class Education extends Component {
                     <Row Style="border:">
                         <Col className="col-1" Style="border:">
                             <img
-                                src={require('../image/work.png')}
+                                src={require('../image/edu.png')}
                                 alt={"exp"}
                                 width=""
                                 height=""
                                 Style="margin-left:7px; margin-left: -27px"/>
                         </Col>
                         <Col className="col-11" Style="text-align: left; border:; font-family: Myanmar MN; font-size: 25px; top:9px;">
-                            EXPERIENCE
+                            EDUCATION
                         </Col>
                     </Row>
                     <Row Style="border:">
