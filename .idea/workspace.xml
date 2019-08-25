@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd59988-3a31-4c99-89dc-9c0882920304" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Component/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Experience.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Container/Contents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Container/Contents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Component/Experience.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+            <state relative-caret-position="598">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -128,6 +127,7 @@
       <find>&lt;/h1&gt;</find>
       <find>out</find>
       <find>30px</find>
+      <find>outset</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -267,18 +267,17 @@
       <workItem from="1565689626375" duration="1028000" />
       <workItem from="1565809852340" duration="1648000" />
       <workItem from="1565875630601" duration="2999000" />
-      <workItem from="1566337177182" duration="16618000" />
+      <workItem from="1566337177182" duration="17240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22293000" />
+    <option name="totallyTimeSpent" value="22915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="796" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -292,7 +291,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994187" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -446,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/Experience.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+        <state relative-caret-position="598">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
