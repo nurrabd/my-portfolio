@@ -56,17 +56,7 @@ class Education extends Component {
                             <p>August 2013 – June 2016</p>
                         </Col>
                     </Row>
-                    <Row Style="border:">
-                        <Col className="col-1" Style="border:">
-                            <div Style="border-left: 1px solid #9B9A9A; margin-left: 3px;  height: 190px;"></div>
-                        </Col >
-                        <Col className="col-11" Style="border:; text-align: left; margin-top: 10px; font-family: Myanmar MN; font-size: 17px; ">
-                            <h2>Forklift driver</h2>
-                            <h5>DHL</h5>
-                            <p>Loading trucks with goods</p>
-                            <p>January 2016 – June 2016</p>
-                        </Col>
-                    </Row>
+
 
                 </Container>
 
