@@ -9,12 +9,14 @@ class HeadLines extends Component {
             <Container Style="position: fixed; top:200px; left: -50px;">
 
                 <Row Style="height:90px"></Row>
-                <Row >
-                    <Col className="col-2 ">
+                <Row className="justify-content-end">
+
+                    <Col className="col-1 " Style="border:outset">
+
                         <img
                         src={require('../image/profile.png')}
                         alt="profile"
-                        Style={"border:"}
+                        Style={"border: outset"}
                         height={"40px"}
                         width={"40px"}
                         />
@@ -28,6 +30,7 @@ class HeadLines extends Component {
                             smooth={true}
                             offset={-70}
                             duration= {500}
+                            className="btn-outline-light"
                         >PROFILE</Link>
                     </Col>
                 </Row>
@@ -40,6 +43,7 @@ class HeadLines extends Component {
                             Style={"border:"}
                             height={"40px"}
                             width={"40px"}
+                            className="btn-outline-light"
                         />
                     </Col>
                     <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
@@ -51,6 +55,7 @@ class HeadLines extends Component {
                             smooth={true}
                             offset={-70}
                             duration= {500}
+                            className="btn-outline-light"
                         >EXPERIENCE</Link>
                     </Col>
                 </Row>
@@ -63,6 +68,7 @@ class HeadLines extends Component {
                             Style={"border:"}
                             height={"40px"}
                             width={"40px"}
+
                         />
                     </Col>
                     <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
@@ -73,6 +79,7 @@ class HeadLines extends Component {
                             smooth={true}
                             offset={-70}
                             duration= {500}
+                            className="btn-outline-light"
                         >EDUCATION</Link>
 
                     </Col>
@@ -86,6 +93,7 @@ class HeadLines extends Component {
                             Style={"border:"}
                             height={"20px"}
                             width={"20px"}
+                            className="btn-outline-light"
                         />
                     </Col>
                     <Col className="col-10 align-items-start" Style={"border:  ; font-family: Myanmar MN; font-size: 25px; text-align:left"}>
@@ -97,6 +105,7 @@ class HeadLines extends Component {
                             smooth={true}
                             offset={-70}
                             duration= {500}
+                            className="btn-outline-light"
                         >SKILLS</Link>
                     </Col>
                 </Row>
@@ -120,6 +129,7 @@ class HeadLines extends Component {
                             smooth={true}
                             offset={-70}
                             duration= {500}
+                            className="btn-outline-light"
                         >INTERESTS</Link>
                     </Col>
                 </Row>
@@ -134,7 +144,7 @@ class HeadLines extends Component {
                             width={"40px"}
                         />
                     </Col>
-                    <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
+                    <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
 
                         <Link
                             activeClass="active"
@@ -143,6 +153,7 @@ class HeadLines extends Component {
                             smooth={true}
                             offset={-70}
                             duration= {500}
+                            className="btn-outline-light"
                         > CERTIFICATIONS</Link>
                     </Col>
                 </Row>
