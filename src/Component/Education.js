@@ -5,7 +5,7 @@ class Education extends Component {
     render() {
         return (
             <div>
-                <Container Style="border:">
+                <Container Style="border:" id="EDUCATION">
 
                     <Row Style={"height: 20px"}></Row>
                     <Row Style="border:">

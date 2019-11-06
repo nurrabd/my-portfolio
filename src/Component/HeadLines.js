@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
 import {Container, Col, Row, } from "react-bootstrap";
+import { Link, animateScroll as scroll } from "react-scroll";
 
 
 class HeadLines extends Component {
     render() {
         return (
-            <Container>
+            <Container Style="position: fixed; top:200px; left: -50px;">
 
                 <Row Style="height:90px"></Row>
                 <Row >
@@ -19,7 +20,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
-                        PROFILE
+
+                        <Link
+                            activeClass="active"
+                            to="PROFILE"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        >PROFILE</Link>
                     </Col>
                 </Row>
                 <br/>
@@ -34,7 +43,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
-                        EXPERIENCE
+
+                        <Link
+                            activeClass="active"
+                            to="EXPERIENCE"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        >EXPERIENCE</Link>
                     </Col>
                 </Row>
                 <br/>
@@ -49,7 +66,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-10" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
-                        EDUCATION
+                        <Link
+                            activeClass="active"
+                            to="EDUCATION"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        >EDUCATION</Link>
+
                     </Col>
                 </Row>
                 <br/>
@@ -64,7 +89,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-10 align-items-start" Style={"border:  ; font-family: Myanmar MN; font-size: 25px; text-align:left"}>
-                        SKILLS
+
+                        <Link
+                            activeClass="active"
+                            to="SKILLS"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        >SKILLS</Link>
                     </Col>
                 </Row>
                 <br/>
@@ -79,7 +112,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
-                        INTERESTS
+
+                        <Link
+                            activeClass="active"
+                            to="INTERESTS"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        >INTERESTS</Link>
                     </Col>
                 </Row>
                 <br/>
@@ -94,7 +135,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
-                        CERTIFICATIONS
+
+                        <Link
+                            activeClass="active"
+                            to=" CERTIFICATIONS"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        > CERTIFICATIONS</Link>
                     </Col>
                 </Row>
                 <br/>
@@ -109,7 +158,15 @@ class HeadLines extends Component {
                         />
                     </Col>
                     <Col className="col-9" Style={"border:; font-family: Myanmar MN; font-size: 25px;  text-align:left"}>
-                        COURSES
+
+                        <Link
+                            activeClass="active"
+                            to="COURSES"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration= {500}
+                        >COURSES</Link>
                     </Col>
                 </Row>
             </Container>
