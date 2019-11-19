@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 import {Container, Col, Row, } from "react-bootstrap";
-import HeadLines from "../Component/HeadLines";
-import Profile from "../Component/Profile";
-import Experience from "../Component/Experience";
-import Education from "../Component/Education";
-import Skills from "../Component/Skills";
-import Interests from "../Component/Interests";
-import Certifications from "../Component/Certifications";
+import HeadLines from "../ResumeComponent/HeadLines";
+import Profile from "../ResumeComponent/Profile";
+import Experience from "../ResumeComponent/Experience";
+import Education from "../ResumeComponent/Education";
+import Skills from "../ResumeComponent/Skills";
+import Interests from "../ResumeComponent/Interests";
+import Certifications from "../ResumeComponent/Certifications";
 
 class Contents extends Component {
     render() {
