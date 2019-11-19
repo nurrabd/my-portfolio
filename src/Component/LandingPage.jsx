@@ -15,13 +15,13 @@ class LandingPage extends Component {
                 <p/>
 
                 <div className="row" >
-                    <div className="col-md-6 col-sm-12  border-danger" Style="height:100%; width:100%">
+                    <div className="col-md-6 col-sm-12  border-danger" Style="height:80%; width:100%">
                         <img
                             src={require('../images/pic1.JPG')}
                         alt="d"
                         className="img-responsive"
-                            height="100%"
-                            width="100%"
+                            height="70%"
+                            width="70%"
                             Style="border-radius:50%"
                        />
                     </div>
@@ -45,7 +45,7 @@ class LandingPage extends Component {
                 </div>
                 <div Style="height:60px"></div>
                 <div className="row">
-                    <div className="col-2   border-danger fab fa-java fa-5x " Style="height:100px; width:100%; color:pink"></div>
+                    <div className="col-md   border-danger fab fa-java fa-5x " Style="height:100px; width:100%; color:pink"></div>
                     <div className="col-2   border-danger fab fa-js fa-5x" Style="height:100px; width:100%; color:pink"></div>
                     <div className="col-2   border-danger fab fa-react fa-5x" Style="height:100px; width:100%; color:pink"></div>
                     <div className="col-2   border-danger fab fa-aws fa-5x" Style="height:100px; width:100%; color:pink"></div>
