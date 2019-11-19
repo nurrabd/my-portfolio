@@ -11,7 +11,7 @@ class Header extends Component {
                 <Navbar.Collapse id="responsive-navbar-nav">
 
                     <Nav className="mr-left">
-                        <Link href="https://resume.io/r/6BznlicoZ" Style="padding-left:900px">Resume</Link>
+                        <a href="https://resume.io/r/6BznlicoZ" Style="padding-left:900px">Resume</a>
                         <Link
 
                             activeClass="active"
