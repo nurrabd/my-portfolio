@@ -15,7 +15,7 @@ function App() {
     <div className="App">
 
             <Header/>
-            <div Style="height:50px"></div>
+
             <LandingPage></LandingPage>
     </div>
   );

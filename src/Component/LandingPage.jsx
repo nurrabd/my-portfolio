@@ -3,15 +3,26 @@ import React, {Component} from 'react';
 class LandingPage extends Component {
     render() {
         return (
+<div >
+    {/** <img src="https://www.w3schools.com/css/paris.jpg"
+     width="100%"
+     height="700px"
+     alt=""
+     />**/}
 
-            <div className="container">
+    <div Style="height:50px"></div>
+            <div className="container" >
                 <p/>
 
                 <div className="row">
-                    <div className="col-md-6 col-sm-12  border-danger" Style="height:; width:100%">
+                    <div className="col-md-6 col-sm-12  border-danger" Style="height:320px; width:100%">
                         <img
-                        src="https://media.licdn.com/dms/image/C4D03AQFHOkFGUpg5bQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=cDeDIeSLiDvx78A7KX6cSSTgzbfPoBTIwaj6XtoBamA"
+                            src={require('../images/pic1.JPG')}
                         alt="d"
+                        className="img-responsive"
+                            height="320px"
+                            width="380px"
+                            Style="border-radius:50%"
                        />
                     </div>
                     <div className="col-md-6 col-sm-12    border-danger" Style="height:; width:100%">
@@ -35,6 +46,7 @@ class LandingPage extends Component {
                     <div className="col-2   border-danger fab fa-css3-alt fa-5x" Style="height:100px; width:100%"></div>
                 </div>
             </div>
+</div>
 
         );
     }
