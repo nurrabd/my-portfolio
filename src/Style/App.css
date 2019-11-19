@@ -154,3 +154,7 @@
 .btw-header-content{
   height: 100px;
 }
+.back{
+  background: rgb(58,177,180);
+  background: linear-gradient(90deg, rgba(58,177,180,0.7888785351763715) 25%, rgba(255,0,226,0.45387314178131444) 64%);
+}
