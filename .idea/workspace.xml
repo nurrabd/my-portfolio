@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd59988-3a31-4c99-89dc-9c0882920304" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Component/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Component/LandingPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/LandingPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pic1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pic1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Portofolio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Portofolio.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Component/Header.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+            <state relative-caret-position="54">
+              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -73,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Component/LandingPage.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+            <state relative-caret-position="193">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -91,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Component/Portofolio.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="238">
+              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -151,11 +152,11 @@
         <option value="$PROJECT_DIR$/src/Component/landingpage.jsx" />
         <option value="$PROJECT_DIR$/src/Component/Resume.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/Component/Portofolio.jsx" />
         <option value="$PROJECT_DIR$/src/page/App.js" />
         <option value="$PROJECT_DIR$/src/Style/App.css" />
-        <option value="$PROJECT_DIR$/src/Component/Header.jsx" />
         <option value="$PROJECT_DIR$/src/Component/LandingPage.jsx" />
+        <option value="$PROJECT_DIR$/src/Component/Header.jsx" />
+        <option value="$PROJECT_DIR$/src/Component/Portofolio.jsx" />
       </list>
     </option>
   </component>
@@ -282,18 +283,18 @@
       <workItem from="1565875630601" duration="2999000" />
       <workItem from="1566337177182" duration="18031000" />
       <workItem from="1573079608194" duration="2979000" />
-      <workItem from="1574110304382" duration="18793000" />
+      <workItem from="1574110304382" duration="20269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45478000" />
+    <option name="totallyTimeSpent" value="46954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="85" y="23" width="1440" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17195208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17195208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -307,7 +308,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -457,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Component/Portofolio.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/react-portfolio/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -490,8 +484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/Header.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        <state relative-caret-position="54">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -500,8 +494,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/LandingPage.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        <state relative-caret-position="193">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Portofolio.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
         </state>
       </provider>
     </entry>

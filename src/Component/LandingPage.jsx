@@ -27,19 +27,20 @@ class LandingPage extends Component {
                     </div>
                     <div className="col-md-6 col-sm-12    border-danger" Style="height:; width:100%" align="center">
                         <div Style="height:90px"></div>
-                        <h3>Software Developer</h3>
-                        <h6>Nurhusein Abdulkader</h6>
+                        <h3 Style="font-family: Cursive; font-size:50px">Software Developer</h3>
+                        <h3 Style="font-family: Cursive; font-size:30px">Nurhusein Abdulkdaer</h3>
+
                     </div>
                 </div>
 
                 <div Style="height:60px"></div>
                 <div className="row">
                     <div className="col-6  border-danger " Style="height:100px; width:100% " align="right">
-                        <a className="fab fa-linkedin fa-5x" href="https://www.linkedin.com/in/nurhusein-abdulkader-185865112/"
-                           Style="color:blue"></a>
+                        <a className="fab fa-linkedin fa-5x btn-outline-primary" href="https://www.linkedin.com/in/nurhusein-abdulkader-185865112/"
+                           Style="color:black"></a>
                     </div>
                     <div className="col-6    border-danger "  Style="height:100px; width:100%" align="left">
-                        <a className="fab fa-github fa-5x " href="https://github.com/nurrabd"
+                        <a className="fab fa-github fa-5x btn-outline-info" href="https://github.com/nurrabd"
                            Style="color:black"></a>
                     </div>
                 </div>
