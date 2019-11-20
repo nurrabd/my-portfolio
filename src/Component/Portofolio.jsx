@@ -13,11 +13,16 @@ class Portofolio extends Component {
                             <img src="https://s3-eu-west-1.amazonaws.com/tt-screenshots/74d16d69-88e4-4718-83cf-d33b885cd642-facebook.png?update=1565166811" className="card-img-top" alt="..."/>
                                 <div className="card-body">
                                     <h5 className="card-title">Resume generator</h5>
-                                    <p className="card-text">Some quick example text to build on the card title and make
-                                        up the bulk of the card's content.</p>
-                                    <a href="#" className="fab fa-github fa-2x" Style="padding:20px"> </a>
+                                    <p className="card-text">En slags linkdin sida där en användare kan lägga upp sitt cv sedan kunna generera en pdf,</p>
+                                    <hr/>
+                                    <p>
+                                        teknologier som användes
+                                        <br/>
+                                        <i className="fab fa-react fa-2x"></i>  <i className="fab fa-java fa-2x"></i>
+                                    </p>
+                                    <a href="https://github.com/cebed/Resume-Generator-Backend" className="fab fa-github fa-2x" Style="padding:20px"> </a>
                                     <a href="#" className="fas fa-file-word fa-2x" Style="padding:20px"></a>
-                                    <a href="#" className="fas fa-tv fa-2x" Style="padding:20px"></a>
+                                    <a href="http://frontitreact-env.mmd2zpu8zr.us-east-1.elasticbeanstalk.com/" className="fas fa-tv fa-2x" Style="padding:20px"></a>
                                 </div>
                         </div>
                     </div>
@@ -28,9 +33,9 @@ class Portofolio extends Component {
                                     <h5 className="card-title">Hem-lagat</h5>
                                     <p className="card-text">Some quick example text to build on the card title and make
                                         up the bulk of the card's content.</p>
-                                    <a href="#" className="fab fa-github fa-2x" Style="padding:20px"> </a>
+                                    <a href="" className="fab fa-github fa-2x" Style="padding:20px"> </a>
                                     <a href="#" className="fas fa-file-word fa-2x" Style="padding:20px"></a>
-                                    <a href="#" className="fas fa-tv fa-2x" Style="padding:20px"></a>
+                                    <a href="" className="fas fa-tv fa-2x" Style="padding:20px"></a>
                                 </div>
                         </div>
                     </div>

@@ -44,14 +44,17 @@ class LandingPage extends Component {
                            Style="color:black"></a>
                     </div>
                 </div>
-                <div Style="height:60px"></div>
+                <div Style="height:45px"></div>
                 <div className="row">
-                    <div className="col-md   border-danger fab fa-java fa-5x " Style="height:100px; width:100%; color:pink"></div>
-                    <div className="col-2   border-danger fab fa-js fa-5x" Style="height:100px; width:100%; color:pink"></div>
-                    <div className="col-2   border-danger fab fa-react fa-5x" Style="height:100px; width:100%; color:pink"></div>
-                    <div className="col-2   border-danger fab fa-aws fa-5x" Style="height:100px; width:100%; color:pink"></div>
-                    <div className="col-2   border-danger fab fa-html5 fa-5x" Style="height:100px; width:100%; color:pink"></div>
-                    <div className="col-2   border-danger fab fa-css3-alt fa-5x" Style="height:100px; width:100%; color:pink"></div>
+                    <div className="col-12">
+
+                    <div className="   border-danger fab fa-java fa-5x " Style=" padding:20px; color:pink"></div>
+                    <div className="   border-danger fab fa-js fa-5x" Style=" padding:20px;color:pink"></div>
+                    <div className="   border-danger fab fa-react fa-5x" Style=" padding:20px;color:pink"></div>
+                    <div className="   border-danger fab fa-aws fa-5x" Style=" padding:20px;color:pink"></div>
+                    <div className="   border-danger fab fa-html5 fa-5x" Style="padding:20px; color:pink"></div>
+                    <div className="   border-danger fab fa-css3-alt fa-5x" Style="padding:20px; color:pink"></div>
+                    </div>
                 </div>
             </div>
 </div>
