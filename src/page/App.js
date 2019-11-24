@@ -6,21 +6,23 @@ import '../Style/App.css';
 import Header from "../Component/Header";
 import LandingPage from "../Component/LandingPage";
 import Portofolio from "../Component/Portofolio";
+import ContactMe from "../Component/ContactMe";
+import AboutMe from "../Component/AboutMe";
 
 
 
 function App() {
 
-  return (
+    return (
 
-    <div className="App">
+        <div className="App">
 
             <Header/>
-
-            <LandingPage></LandingPage>
-        <Portofolio/>
-    </div>
-  );
+            <LandingPage/>
+            <Portofolio/>
+            <AboutMe/>
+        </div>
+    );
 }
 
 export default App;

@@ -18,8 +18,8 @@ class Header extends Component {
                             to="project"
                             spy={true}
                             smooth={true}
-                            offset={-70}
-                            duration= {500}
+                            offset={0}
+                            duration= {1000}
                             className=" border-danger"
                             Style="padding-left:20px; align-text:center"
 
@@ -27,11 +27,11 @@ class Header extends Component {
                         <Link
 
                             activeClass="active"
-                            to="project"
+                            to="about"
                             spy={true}
                             smooth={true}
-                            offset={-70}
-                            duration= {500}
+                            offset={0}
+                            duration= {1000}
                             className=" border-danger"
                             Style="padding-left:20px; align-text:center"
 

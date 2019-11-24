@@ -1,6 +1,37 @@
 import React, {Component} from 'react';
+import Split from 'react-split'
 
 class LandingPage extends Component {
+    constructor(props){
+        super();
+    this.state = {
+            web : 0 ,
+            count: 1
+        }
+    }
+
+    componentDidMount() {
+
+        const h =()=>{
+            this.myinteva =  this.setState({
+                web: this.state.web +  1,
+                count:  this.state.count + 1
+
+            });
+        };
+
+
+
+       setInterval(h, 1000);
+
+
+
+    }
+
+    componentWillMount() {
+        clearInterval(this.myinteva)
+    }
+
     render() {
         return (
 <div className="back">
@@ -27,8 +58,8 @@ class LandingPage extends Component {
                     </div>
                     <div className="col-md-6 col-sm-12    border-danger" Style="height:; width:100%" align="center">
                         <div Style="height:90px"></div>
-                        <h3 Style="font-family: Cursive; font-size:50px">Software Developer</h3>
-                        <h3 Style="font-family: Cursive; font-size:30px">Nurhusein Abdulkdaer</h3>
+                        <h3 Style="font-family:Bevan ; font-size:50px">Software Developer </h3>
+                        <h3 Style="font-family: Bevan; font-size:30px">Nurhusein Abdulkader </h3>
 
                     </div>
                 </div>
