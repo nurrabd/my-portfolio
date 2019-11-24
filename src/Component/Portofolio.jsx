@@ -21,7 +21,7 @@ class Portofolio extends Component {
                                         <i className="fab fa-react fa-2x"></i>  <i className="fab fa-java fa-2x"></i>
                                     </p>
                                     <a href="https://github.com/cebed/Resume-Generator-Backend" className="fab fa-github fa-2x" Style="padding:20px"> </a>
-                                    <a href="#" className="fas fa-file-word fa-2x" Style="padding:20px"></a>
+                                    <a href="https://github.com/cebed/ResumeGenerator-ReactFrontend/blob/master/LMTX38_Examensarbete2019-nyversion.pdf" className="fas fa-file-word fa-2x" Style="padding:20px"></a>
                                     <a href="http://frontitreact-env.mmd2zpu8zr.us-east-1.elasticbeanstalk.com/" className="fas fa-tv fa-2x" Style="padding:20px"></a>
                                 </div>
                         </div>
