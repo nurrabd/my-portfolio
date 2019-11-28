@@ -10,8 +10,8 @@ class Header extends Component {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
 
-                    <Nav className="mr-left">
-                        <a href="https://resume.io/r/6BznlicoZ" Style="padding-left:900px">Resume</a>
+                    <Nav className="mr-auto">
+                        <a href="https://resume.io/r/6BznlicoZ" Style="padding-left:20px">Resume</a>
                         <Link
 
                             activeClass="active"

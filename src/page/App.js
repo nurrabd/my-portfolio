@@ -21,6 +21,7 @@ function App() {
             <LandingPage/>
             <Portofolio/>
             <AboutMe/>
+            <ContactMe/>
         </div>
     );
 }
