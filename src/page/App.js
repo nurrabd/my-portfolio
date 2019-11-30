@@ -8,6 +8,8 @@ import LandingPage from "../Component/LandingPage";
 import Portofolio from "../Component/Portofolio";
 import ContactMe from "../Component/ContactMe";
 import AboutMe from "../Component/AboutMe";
+import Dialog from "../Component/Dialog";
+
 
 
 
@@ -22,6 +24,7 @@ function App() {
             <Portofolio/>
             <AboutMe/>
             <ContactMe/>
+
         </div>
     );
 }
