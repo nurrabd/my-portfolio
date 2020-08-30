@@ -58,7 +58,7 @@ class LandingPage extends Component {
                     </div>
                     <div className="col-md-6 col-sm-12    border-danger" Style="height:; width:100%" align="center">
                         <div Style="height:90px"></div>
-                        <h3 Style="font-family:Bevan ; font-size:50px">Software Developer </h3>
+                        <h3 Style="font-family:Bevan ; font-size:50px">It consultant </h3>
                         <h3 Style="font-family: Bevan; font-size:30px">Nurhusein Abdulkader </h3>
 
                     </div>
