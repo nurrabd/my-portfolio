@@ -19,11 +19,12 @@ function App() {
 
         <div className="App">
 
-            <Header/>
-            <LandingPage/>
-            <Portofolio/>
-            <AboutMe/>
-            <ContactMe/>
+            {/** <Header/>
+             <LandingPage/>
+             <Portofolio/>
+             <AboutMe/>
+             <ContactMe/>**/}
+
 
         </div>
     );
