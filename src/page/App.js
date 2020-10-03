@@ -25,6 +25,7 @@ function App() {
              <AboutMe/>
              <ContactMe/>**/}
 
+devoloping mode
 
         </div>
     );
