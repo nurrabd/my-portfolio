@@ -17,15 +17,23 @@ function App() {
 
     return (
 
-        <div className="App">
+        <div className="App container">
+<div className="row justify-content-center">
+    <img src={require("../images/logo1.png")} alt=""/>
+</div>
+            <div className="row justify-content-center">
 
+               <h3 className="focus-in-contract-bck" Style="font-family:Roboto; "> WE MAKE IT HAPPEN</h3>
+
+            </div>
+            <h5>website under construction</h5>
             {/** <Header/>
              <LandingPage/>
              <Portofolio/>
              <AboutMe/>
              <ContactMe/>**/}
 
-Changing the content
+
 
         </div>
     );
