@@ -23,7 +23,7 @@ function App() {
 </div>
             <div className="row justify-content-center">
 
-               <h3 className="focus-in-contract-bck" Style="font-family:Roboto; "> WE MAKE IT HAPPEN</h3>
+               <h3 className="focus-in-contract-bck " Style="font-family:Roboto; "> WE MAKE IT HAPPEN</h3>
 
             </div>
             <h5></h5>
@@ -32,17 +32,15 @@ function App() {
              <Portofolio/>
              <AboutMe/>
              <ContactMe/>**/}
+<div className="row justify-content-center">
+    <div className="col-md-6"> <div className="typewriter">
+        <h6>website under construction</h6>
+    </div>
+    </div>
 
-            <div className="typewriter">
-                <h1>website under construction</h1>
-            </div>
+</div>
 
-            <h1>
-                <a href="" className="typewrite" data-period="2000"
-                   data-type='[ "Hi, Im Si.", "I am Creative.", "I Love Design.", "I Love to Develop." ]'>
-                    <span className="wrap"></span>
-                </a>
-            </h1>
+
 
 
         </div>
