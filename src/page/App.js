@@ -18,6 +18,7 @@ function App() {
     return (
 
         <div className="App " style={{background: 'url(https://goteborgco.se/wp-content/uploads/2019/12/utsikt-167-11-2048x948.jpg) center / cover', height:'800px'}}>
+            <div className="container">
 <div className="row justify-content-center">
     <img src={require("../images/logo1.png")} alt=""/>
 </div>
@@ -42,7 +43,7 @@ function App() {
 
 
 
-
+            </div>
         </div>
     );
 }
