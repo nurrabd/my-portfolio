@@ -67,7 +67,7 @@ class Portofolio extends Component {
                                 </p>
                                 <a href="https://github.com/nurrabd/Barry"
                                    className="fab fa-github fa-2x" Style="padding:20px"> </a>
-                                <a href="https://dackfixarna.netlify.app/"
+                                <a href="https://dackfixarna.netlify.app"
                                    className="fas fa-tv fa-2x" Style="padding:20px"></a>
                             </div>
                         </div>
