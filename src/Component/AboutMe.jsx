@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class AboutMe extends Component {
     render() {
         return (
-            <div Style="background-color: #3d4147; ">
+            <div Style="background-color: pink; ">
             <div className="container" id="about" >
 
                 <div className="row  justify-content-center">
