@@ -60,6 +60,8 @@ class LandingPage extends Component {
                         <div Style="height:90px"></div>
                         <h3 Style="font-family:Bevan ; font-size:50px">Software developer </h3>
                         <h3 Style="font-family: Bevan; font-size:30px">Nurhusein Abdulkader </h3>
+                        <h6 Style="font-family: Bevan; font-size:20px">nurhusein11@gmail.com </h6>
+                        <h6 Style="font-family: Bevan; font-size:20px">0722524885 </h6>
 
                     </div>
                 </div>
