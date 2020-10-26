@@ -46,7 +46,7 @@ class LandingPage extends Component {
                 <p/>
 
                 <div className="row" >
-                    <div className="col-md-6 col-sm-12  border-danger" Style="height:80%; width:100%">
+                    <div className="col-md-6 col-sm-12  border-danger" Style="height:80%; width:100%; max-height:700px; min-height:700px">
                         <img
                             src={require('../images/pic1.JPG')}
                         alt="d"

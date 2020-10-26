@@ -28,7 +28,7 @@ class Portofolio extends Component {
                         </div>
                     </div>
                     <div className="col-md-4 col-sm-6">
-                        <div className="card" Style="width: 95%;">
+                        <div className="card" Style="width: 95%; height:100%">
                             <img src={require('../images/hemlagat.png')} width="100%" height="100%" className="card-img-top" alt="..."/>
                                 <div className="card-body">
                                     <h5 className="card-title">Hem-lagat</h5>
@@ -89,7 +89,7 @@ class Portofolio extends Component {
                                 <h5 className="card-title">Venture for Gothenburg</h5>
                                 <p className="card-text"> sidan under prod..</p>
                                 <a href="https://github.com/nurrabd/aventureGBG" className="fab fa-github fa-2x" Style="padding:20px"> </a>
-                                <a href="https://app.netlify.com/sites/elastic-lewin-a15960/overview" className="fas fa-tv fa-2x" Style="padding:20px"></a>
+                                <a href="https://elastic-lewin-a15960.netlify.app/" className="fas fa-tv fa-2x" Style="padding:20px"></a>
                             </div>
                         </div>
                     </div>
