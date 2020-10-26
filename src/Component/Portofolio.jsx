@@ -83,15 +83,13 @@ class Portofolio extends Component {
                     <div className="col-md-4 col-sm-6">
                         <div className="card" Style="width: 100%;">
                             <img
-                                src="https://s3-eu-west-1.amazonaws.com/tt-screenshots/74d16d69-88e4-4718-83cf-d33b885cd642-facebook.png?update=1565166811"
+                                src={require("../images/ven.png")}
                                 className="card-img-top" alt="..."/>
                             <div className="card-body">
                                 <h5 className="card-title">Card title</h5>
-                                <p className="card-text">Some quick example text to build on the card title and make
-                                    up the bulk of the card's content.</p>
-                                <a href="#" className="fab fa-github fa-2x" Style="padding:20px"> </a>
-                                <a href="#" className="fas fa-file-word fa-2x" Style="padding:20px"></a>
-                                <a href="#" className="fas fa-tv fa-2x" Style="padding:20px"></a>
+                                <p className="card-text"> sidan under prod..</p>
+                                <a href="https://github.com/nurrabd/aventureGBG" className="fab fa-github fa-2x" Style="padding:20px"> </a>
+                                <a href="https://app.netlify.com/sites/elastic-lewin-a15960/overview" className="fas fa-tv fa-2x" Style="padding:20px"></a>
                             </div>
                         </div>
                     </div>

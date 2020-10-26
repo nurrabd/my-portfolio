@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd59988-3a31-4c99-89dc-9c0882920304" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/ven.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/AboutMe.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/AboutMe.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/ContactMe.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ContactMe.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/LandingPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/LandingPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Component/Portofolio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Portofolio.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,22 +35,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Component/norrsonsIt.jsx">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Component/Portofolio.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="25" />
+            <state relative-caret-position="264">
+              <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Component/Portofolio.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/barry.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -200,6 +194,12 @@
               <item name="my-portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -287,17 +287,18 @@
       <workItem from="1602413041691" duration="190000" />
       <workItem from="1603458743626" duration="550000" />
       <workItem from="1603744520021" duration="1810000" />
-      <workItem from="1603746871618" duration="2234000" />
+      <workItem from="1603746871618" duration="2700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71090000" />
+    <option name="totallyTimeSpent" value="71556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="796" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17195208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17195208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -311,7 +312,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -552,6 +553,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/barry.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/AboutMe.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -561,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/Portofolio.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+        <state relative-caret-position="264">
+          <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
         </state>
       </provider>
     </entry>
