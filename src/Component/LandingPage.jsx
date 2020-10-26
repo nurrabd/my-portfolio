@@ -76,17 +76,18 @@ class LandingPage extends Component {
                     </div>
                 </div>
                 <div Style="height:45px"></div>
-                <div className="row border">
-                    <div className="col-md-8 offset-3">
-<ul>
-                    <li className="   border-danger fab fa-java fa-5x " Style=" padding:20px; color:pink"></li>
-                    <li className="   border-danger fab fa-js fa-5x" Style=" padding:20px;color:pink"></li>
-                    <li className="   border-danger fab fa-react fa-5x" Style=" padding:20px;color:pink"></li>
-                    <li className="   border-danger fab fa-aws fa-5x" Style=" padding:20px;color:pink"></li>
-                    <li className="   border-danger fab fa-html5 fa-5x" Style="padding:20px; color:pink"></li>
-                    <li className="   border-danger fab fa-css3-alt fa-5x" Style="padding:20px; color:pink"></li>
-                    <li  ><img src="https://firststepitsolution.com/wp-content/uploads/2020/04/spring-boot-icon.png" height={"10%"} width={"20%"} alt="spring-boot"  Style="padding:20px; color:pink" className="border "/></li>
-</ul>
+                <div className="row justify-content-center">
+                    <div className="col-md-8  ">
+
+                    <i className="   border-danger fab fa-java fa-5x " Style=" padding:20px; color:pink"></i>
+                    <i className="   border-danger fab fa-js fa-5x" Style=" padding:20px;color:pink"></i>
+                    <i className="   border-danger fab fa-react fa-5x" Style=" padding:20px;color:pink"></i>
+                    <i className="   border-danger fab fa-aws fa-5x" Style=" padding:20px;color:pink"></i>
+                    <i className="   border-danger fab fa-html5 fa-5x" Style="padding:20px; color:pink"></i>
+                    <i className="   border-danger fab fa-css3-alt fa-5x" Style="padding:20px; color:pink"></i>
+                        {/** <i  ><img src="https://firststepitsolution.com/wp-content/uploads/2020/04/spring-boot-icon.png" height={"10%"} width={"20%"} alt="spring-boot"  Style="padding:20px; color:pink" className=" "/></i>**/}
+
+
                     </div>
                 </div>
             </div>
