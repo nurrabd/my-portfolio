@@ -28,7 +28,7 @@ class Portofolio extends Component {
                         </div>
                     </div>
                     <div className="col-md-4 col-sm-6">
-                        <div className="card" Style="width: 95%; height:100%">
+                        <div className="card" Style="width: 95%; ">
                             <img src={require('../images/hemlagat.png')} width="100%" height="100%" className="card-img-top" alt="..."/>
                                 <div className="card-body">
                                     <h5 className="card-title">Hem-lagat</h5>
