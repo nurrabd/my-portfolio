@@ -45,9 +45,9 @@ class LandingPage extends Component {
             <div className="container" >
                 <p/>
 
-                <div className="row justify-content-center align-items-center border border-danger"  >
+                <div className="row justify-content-center "  >
 
-                    <div className="col-md-5  offset-1 border border-danger"  Style="height:80%; width:100%; ">
+                    <div className="col-md-5  offset-1"  Style="height:80%; width:100%; ">
                         <img
                             src={require('../images/pic1.JPG')}
                         alt="d"
