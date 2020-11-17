@@ -45,15 +45,15 @@ class LandingPage extends Component {
             <div className="container" >
                 <p/>
 
-                <div className="row justify-content-center" >
-                    <div className="col-md-6 col-sm-12  border-danger" Style="height:80%; width:100%;">
+                <div className="row justify-content-center align-items-center border border-danger"  >
+
+                    <div className="col-md-5  offset-1 border border-danger"  Style="height:80%; width:100%; ">
                         <img
                             src={require('../images/pic1.JPG')}
                         alt="d"
-                        className="img-responsive"
                             height="70%"
                             width="70%"
-                            Style="border-radius:50%"
+                            Style="border-radius:50%;"
                        />
                     </div>
                     <div className="col-md-6 col-sm-12    border-danger" Style="height:; width:100%" align="center">

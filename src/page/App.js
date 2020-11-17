@@ -23,8 +23,7 @@ function App() {
             <Header/>
             <LandingPage/>
             <Portofolio/>
-            <AboutMe/>
-            <ContactMe/>
+
             <Footer/>
 
 
