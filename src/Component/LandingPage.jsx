@@ -47,7 +47,7 @@ class LandingPage extends Component {
 
                 <div className="row justify-content-center "  >
 
-                    <div className="col-md-5  offset-1"  Style="height:80%; width:100%; ">
+                    <div className="col-md-6"  Style="height:80%; width:100%; ">
                         <img
                             src={require('../images/pic1.JPG')}
                         alt="d"

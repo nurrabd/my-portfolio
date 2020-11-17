@@ -10,8 +10,9 @@ class Header extends Component {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
 
-                    <Nav className="mr-auto">
-                        <a href="https://resume.io/r/6BznlicoZ" Style="padding-left:20px">Resume</a>
+                    <Nav className="justify-content-center">
+                        <div Style="padding:20px; margin-left:130px" className="border border-danger">  <a href="https://resume.io/r/6BznlicoZ" >Resume</a></div>
+                        <div Style="padding:20px; margin-left:30px" className="border border-danger">
                         <Link
 
                             activeClass="active"
@@ -21,34 +22,35 @@ class Header extends Component {
                             offset={0}
                             duration= {1000}
                             className=" border-danger"
-                            Style="padding-left:20px; align-text:center"
+                            Style=""
 
-                        >projects</Link>
-                        <Link
+                        >Projects</Link>
+                        {/***  <Link
 
-                            activeClass="active"
-                            to="about"
-                            spy={true}
-                            smooth={true}
-                            offset={0}
-                            duration= {1000}
-                            className=" border-danger"
-                            Style="padding-left:20px; align-text:center"
+                         activeClass="active"
+                         to="about"
+                         spy={true}
+                         smooth={true}
+                         offset={0}
+                         duration= {1000}
+                         className=" border-danger"
+                         Style="padding-left:20px; align-text:center"
 
-                        >About Me</Link>
-                        <Link
+                         >About Me</Link>
+                         <Link
 
-                            activeClass="active"
-                            to="project"
-                            spy={true}
-                            smooth={true}
-                            offset={-70}
-                            duration= {500}
-                            className=" border-danger"
-                            Style="padding-left:20px; align-text:center"
+                         activeClass="active"
+                         to="project"
+                         spy={true}
+                         smooth={true}
+                         offset={-70}
+                         duration= {500}
+                         className=" border-danger"
+                         Style="padding-left:20px; align-text:center"
 
-                        >Contact Me</Link>
+                         >Contact Me</Link>*/}
 
+                        </div>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
