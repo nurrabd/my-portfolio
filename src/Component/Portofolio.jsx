@@ -79,7 +79,7 @@ class Portofolio extends Component {
 
                 </div>
 
-                <div className="row">
+                {/*<div className="row">
                     <div className="col-md-4 col-sm-6">
                         <div className="card" Style="width: 100%;">
                             <img
@@ -93,7 +93,7 @@ class Portofolio extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>*/}
                  <div Style="height: 200px"></div>
 
             </div>
