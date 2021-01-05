@@ -4,7 +4,7 @@ import {FooterSection, FooterDropDownSection, FooterLinkList, Footer} from 'reac
 class Footr extends Component {
     render() {
         return (
-            <Footer size="mega">
+            <Footer size="mega" className="back" style={{opacity:"70%"}}>
                 {/** <FooterSection type="middle">
                  <FooterDropDownSection title="Features">
                  <FooterLinkList>

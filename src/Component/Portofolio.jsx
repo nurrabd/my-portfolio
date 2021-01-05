@@ -16,8 +16,6 @@ class Portofolio extends Component {
                                     <p className="card-text"></p>
                                     <hr/>
                                     <p>
-                                        Databasen avstäng, kontata mig om du vill se!
-                                        teknologier som användes
                                         <br/>
                                         <i className="fab fa-react fa-2x"></i>  <i className="fab fa-java fa-2x"></i>
                                     </p>
@@ -34,11 +32,7 @@ class Portofolio extends Component {
                                     <h5 className="card-title">Hem-lagat</h5>
                                     <p className="card-text"></p>
                                     <hr/>
-                                    <p>
-                                        finns på lokala dator. kontakta för mer info
-                                        <br/>
-                                        teknologier som användes
-                                        <br/>
+                                    <p><br/>
                                         <i className="fab fa-react fa-2x"></i> <i className="fab fa-java fa-2x"></i>
                                     </p>
 
@@ -59,15 +53,11 @@ class Portofolio extends Component {
                                 <p className="card-text"></p>
                                 <hr/>
                                 <p>
-                                    teknologier som användes
-                                    <br/>
-                                    obs. under utveckling.
-                                    <br/>
                                     <i className="fab fa-react fa-2x"></i> <i className="fab fa-java fa-2x"></i>
                                 </p>
                                 <a href="https://github.com/nurrabd/Barry"
                                    className="fab fa-github fa-2x" Style="padding:20px"> </a>
-                                <a href="https://kingstonekutz.netlify.app/"
+                                <a href="https://kingstone-kutz-4a3upowfe.vercel.app/"
                                    className="fas fa-tv fa-2x" Style="padding:20px"></a>
                             </div>
                         </div>
