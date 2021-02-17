@@ -57,12 +57,12 @@ class LandingPage extends Component {
                             className=" d-flex offset-2"
                        />
                     </div>
-                    <div className="col-md-6 col-sm-12  focus-in-contract-bck  border-danger" Style="height:; width:100%; color:#4A003E" align="center">
+                    <div className="col-md-6 col-sm-12  typewriter  border-danger" Style="height:; width:100%; color:#4A003E" align="center">
                         <div Style="height:90px"></div>
-                        <h3 Style="font-family:Bevan ; font-size:50px">Software developer </h3>
-                        <h3 Style="font-family: Bevan; font-size:30px">Nurhusein Abdulkader </h3>
-                        <h6 Style="font-family: Bevan; font-size:20px">nurhusein11@gmail.com </h6>
-                        <h6 Style="font-family: Bevan; font-size:20px">0722524885 </h6>
+                        <h2 className="" Style="font-family:Bevan ; padding:20px font-size:50px">Software developer </h2>
+                        <h3 className="typewriter" Style="font-family: Bevan; font-size:30px">Nurhusein Abdulkader </h3>
+                        <h6 className={"typewriter"} Style="font-family: Bevan; font-size:20px">nurhusein11@gmail.com </h6>
+                        <h7 className={"typewriter"} Style="font-family: Bevan; font-size:20px">0722524885 </h7>
 
                     </div>
                 </div>
