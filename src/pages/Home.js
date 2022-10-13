@@ -1,11 +1,16 @@
 import React, { Fragment } from 'react';
-
+import MetaTags from 'react-meta-tags';
 
 import Loading from '../blocks/loading/Loading';
 import Header from '../blocks/header/Header';
 import Footer from '../blocks/footer/Footer';
 
-
+import PageTitleHome from '../blocks/page-title/PageTitleHome';
+import ContactsUs from "../blocks/contacts/ContactUs";
+import ServicesHome from '../blocks/services/ServicesHome';
+import AboutsUs from '../blocks/about/AboutUs';
+import News from '../blocks/news/News';
+import Newsletter from '../blocks/newsletter/Newsletter';
 
 
 const Home = () => {
@@ -14,6 +19,19 @@ const Home = () => {
 
     return (
         <Fragment>
+            <MetaTags>
+                <meta charSet="UTF-8" />
+                <title>Home | Chop - Barber Shop React JS Template</title>
+
+                <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <meta name="description" content="" />
+                <meta name="keywords" content="" />
+                <meta name="robots" content="index, follow, noodp" />
+                <meta name="googlebot" content="index, follow" />
+                <meta name="google" content="notranslate" />
+                <meta name="format-detection" content="telephone=no" />
+            </MetaTags>
 
             <Loading />
 
@@ -22,7 +40,13 @@ const Home = () => {
             <main id="main" className="site-main content-no-spacing">
                 <div className="content">
                     <div className="clearfix">
+                        <PageTitleHome />
 
+                        <ContactsUs />
+
+                        <ServicesHome />
+
+                        <AboutsUs />
 
                         <div id="img" className="block spacer p-top-xl">
                             <div className="img-no-wrap-1 img-gray">
@@ -34,7 +58,9 @@ const Home = () => {
                             </div>
                         </div>
 
+                        <News />
 
+                        <Newsletter />
                     </div>
                 </div>
             </main>
